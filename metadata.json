@@ -1,0 +1,8 @@
+{
+  "name": "رنين الصامت",
+  "description": "تشغيل اشعارات الرنين وتجاوز الوضع الصامت لجهات اتصال محددة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
